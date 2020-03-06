@@ -1,5 +1,5 @@
-# AI enabled mobile app based on Tsetlin Machine to forecast Corona patients in different countries
-In this project, you will learn how to create an AI enabled mobile app based on Tsetlin Machine (a new machine learning algorithm) using Kivy to forecast Corona patients in different countries
+# AI enabled mobile app based on Tsetlin Machine to forecast the number of Corona patients for the next day in different countries
+In this project, you will learn how to create an AI enabled mobile app based on Tsetlin Machine (a new machine learning algorithm) using Kivy to forecast the number of Corona patients for the next day in different countries
 
 **More details about the machine learning algorithm (regression tsetlin machine) will be added soon.**
 (https://github.com/cair/regression-tsetlin-machine)
