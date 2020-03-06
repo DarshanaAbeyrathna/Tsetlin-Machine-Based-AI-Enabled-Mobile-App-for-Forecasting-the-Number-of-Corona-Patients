@@ -20,5 +20,7 @@ In this project, you will learn how to create an AI enabled mobile app based on 
 
 * Now for an example, build the mobile application for Android by running "buildozer android debug deploy run" command.
 
+# Three easy steps to get the results
 
-<img src="https://github.com/DarshanaAbeyrathna/AI-enabled-mobile-app-based-on-Tsetlin-Machine/blob/master/first.PNG" width="600" height="550">
+The initial stage, asking you to select a country
+<img src="https://github.com/DarshanaAbeyrathna/AI-enabled-mobile-app-based-on-Tsetlin-Machine/blob/master/first.PNG" width="300" height="300">
