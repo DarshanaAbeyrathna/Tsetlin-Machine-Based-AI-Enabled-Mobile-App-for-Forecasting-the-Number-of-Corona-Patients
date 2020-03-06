@@ -19,3 +19,6 @@ In this project, you will learn how to create an AI enabled mobile app based on 
 * In the generated "buildozer.spec" file, add ".npy" and ".gif" extensions to the ``` "source.include_exts" ``` property. 
 
 * Now for an example, build the mobile application for Android by running "buildozer android debug deploy run" command.
+
+
+<img src="https://github.com/DarshanaAbeyrathna/AI-enabled-mobile-app-based-on-Tsetlin-Machine/blob/master/first.PNG" width="600" height="550">
