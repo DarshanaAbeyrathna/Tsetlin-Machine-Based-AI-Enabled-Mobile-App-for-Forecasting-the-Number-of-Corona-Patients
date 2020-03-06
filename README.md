@@ -30,6 +30,6 @@ Once you select the country, the required input features will be displayed on th
 
 <img src="https://github.com/DarshanaAbeyrathna/AI-enabled-mobile-app-based-on-Tsetlin-Machine/blob/master/first.PNG" width="500" height="400">
 
-Enter the required features seperated by commas "Next Feature" button and press the "Predict" button at the end.
+Enter the required features seperated by commas ("Next Feature" button) and press the "Predict" button at the end.
 
 <img src="https://github.com/DarshanaAbeyrathna/AI-enabled-mobile-app-based-on-Tsetlin-Machine/blob/master/results.PNG" width="500" height="400">
