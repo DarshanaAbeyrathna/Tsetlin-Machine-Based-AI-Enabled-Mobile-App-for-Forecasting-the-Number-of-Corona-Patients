@@ -22,7 +22,7 @@ In this project, you will learn how to create an AI enabled mobile app based on 
 
 ### Three easy steps to get the results
 
-The initial stage, asking you to select a country.
+The initial stage, asking you to select a country. Press on the "Country" button and select the country you want.
 
 <img src="https://github.com/DarshanaAbeyrathna/AI-enabled-mobile-app-based-on-Tsetlin-Machine/blob/master/start.PNG" width="500" height="400">
 
