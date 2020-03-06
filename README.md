@@ -42,6 +42,6 @@ You can't predict without selecting a country.
 
 <img src="https://github.com/DarshanaAbeyrathna/AI-enabled-mobile-app-based-on-Tsetlin-Machine/blob/master/warning1.PNG" width="500" height="400">
 
-You should at the right number of input features.
+You should add the right number of input features.
 
 <img src="https://github.com/DarshanaAbeyrathna/AI-enabled-mobile-app-based-on-Tsetlin-Machine/blob/master/warning2.PNG" width="500" height="400">
